@@ -1,6 +1,4 @@
-#Hello World!
-<<<<<<< HEAD
+# Hello World!
 # test error
-=======
 # this is my second line of code
->>>>>>> feature2
+# test 2
